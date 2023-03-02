@@ -1,0 +1,512 @@
+mention,type,query,wiki_link,wikidata_type,wiki_name,exposure
+radioheads,Artist,i love radioheads kid a something similar | kinda a bit like aphex twin maybe,https://en.wikipedia.org/wiki/Radiohead,musical group,Radiohead,6.562410151614332
+kid a,WoA,i love radioheads kid a something similar | kinda a bit like aphex twin maybe,https://en.wikipedia.org/wiki/Kid_A,album,Kid_A,3.1460990866296594
+aphex twin,Artist,i love radioheads kid a something similar | kinda a bit like aphex twin maybe,https://en.wikipedia.org/wiki/Aphex_Twin,human,Aphex_Twin,4.9640105456074455
+i fight dragons,Artist,anything similar to i fight dragons,https://en.wikipedia.org/wiki/I_Fight_Dragons,musical group,I_Fight_Dragons,1.457272643505256
+ccrs,Artist,music similar to ccrs travelin band,https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival,musical group,Creedence_Clearwater_Revival,4.892675360852829
+travelin band,WoA,music similar to ccrs travelin band,https://en.wikipedia.org/wiki/Travelin%27_Band,musical work/composition,Travelin%27_Band,1.5090017365530528
+blackout,WoA,songs similar to blackout by boris,https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album),album,Blackout_(Britney_Spears_album),2.833563246042866
+boris,Artist,songs similar to blackout by boris,https://en.wikipedia.org/wiki/Boris_(band),rock group,Boris_(band),3.4011888960343004
+zoosters breakout,WoA,similar to zoosters breakout by hans zimmer but simpler not as epic,,,,0.0
+hans zimmer,Artist,similar to zoosters breakout by hans zimmer but simpler not as epic,https://en.wikipedia.org/wiki/Hans_Zimmer,human,Hans_Zimmer,5.239962761257766
+trios,Artist,songs similar to trios da da da,https://en.wikipedia.org/wiki/Trio_(band),musical group,Trio_(band),2.092986496134173
+da da da,WoA,songs similar to trios da da da,https://en.wikipedia.org/wiki/Da_Da_Da,song,Da_Da_Da,1.007177528481689
+radioheads,Artist,aything similar to radioheads everything in its right place,https://en.wikipedia.org/wiki/Radiohead,musical group,Radiohead,6.562410151614332
+everything in its right place,WoA,aything similar to radioheads everything in its right place,https://en.wikipedia.org/wiki/Everything_in_Its_Right_Place,musical work/composition,Everything_in_Its_Right_Place,1.5885884210286427
+dré anthony,Artist,dré anthony brand new,,,,0.0
+brand new,WoA,dré anthony brand new,https://en.wikipedia.org/wiki/Brand_New_(Shinhwa_album),album,Brand_New_(Shinhwa_album),0.3997434635087344
+my chemical romance,Artist,looking for songs similar in subject and style to the intro to black parade by my chemical romance,https://en.wikipedia.org/wiki/My_Chemical_Romance,musical group,My_Chemical_Romance,5.197855026925572
+black parade,WoA,looking for songs similar in subject and style to the intro to black parade by my chemical romance,https://en.wikipedia.org/wiki/Black_Parade_(song),song,Black_Parade_(song),0.0
+crushed up,WoA,rap hip hop that sounds like crushed up by future,https://en.wikipedia.org/wiki/Crushed_Up,musical work/composition,Crushed_Up,0.0
+future,Artist,rap hip hop that sounds like crushed up by future,https://en.wikipedia.org/wiki/Future_(rapper),human,Future_(rapper),4.987137484069224
+matt champion,Artist,searching for rap r&b acts like matt champion of brockhampton,https://en.wikipedia.org/wiki/Matt_Champion,human,Matt_Champion,0.0
+brockhampton,Artist,searching for rap r&b acts like matt champion of brockhampton,https://en.wikipedia.org/wiki/Brockhampton_(band),musical group,Brockhampton_(band),1.628170029296392
+something beautifull,WoA,similar song to something beautifull need to breathe,,,,0.0
+need to breathe,Artist,similar song to something beautifull need to breathe,,,,0.0
+flylo,Artist,stuff like flylo,https://en.wikipedia.org/wiki/Flyleaf_(band),musical group,Flyleaf_(band),3.489213797824433
+andrew huang,Artist,andrew huang 300000 note song | any other songs that resembles this,https://en.wikipedia.org/wiki/Andrew_Huang_(musician),human,Andrew_Huang_(musician),0.0
+300000 note song,WoA,andrew huang 300000 note song | any other songs that resembles this,,,,0.0
+buttercup,WoA,similar to buttercup by jack stauber,https://en.wikipedia.org/wiki/The_Buttercup_Chain,film,The_Buttercup_Chain,0.7945680047486068
+jack stauber,Artist,similar to buttercup by jack stauber,https://en.wikipedia.org/wiki/Jack_Stauber,human,Jack_Stauber,0.0
+pheonixs,Artist,im looking for an album like pheonixs love like a sunset | ideally instrumental only,https://en.wikipedia.org/wiki/Pheonix_Copley,human,Pheonix_Copley,0.780421717882227
+love like a sunset,WoA,im looking for an album like pheonixs love like a sunset | ideally instrumental only,,,,0.0
+funeral,WoA,looking for more sad songs in the same vein as things like funeral by phoebe bridges trapeze swing by iron and wine | within the rose by matthew and the atlas | any suggestions for songs that got this mood,https://en.wikipedia.org/wiki/Funeral_(Arcade_Fire_album),album,Funeral_(Arcade_Fire_album),0.0
+phoebe bridges,Artist,looking for more sad songs in the same vein as things like funeral by phoebe bridges trapeze swing by iron and wine | within the rose by matthew and the atlas | any suggestions for songs that got this mood,https://en.wikipedia.org/wiki/Phoebe_Bridgers,human,Phoebe_Bridgers,0.4829094705821912
+trapeze swing,WoA,looking for more sad songs in the same vein as things like funeral by phoebe bridges trapeze swing by iron and wine | within the rose by matthew and the atlas | any suggestions for songs that got this mood,,,,0.0
+iron and wine,Artist,looking for more sad songs in the same vein as things like funeral by phoebe bridges trapeze swing by iron and wine | within the rose by matthew and the atlas | any suggestions for songs that got this mood,https://en.wikipedia.org/wiki/Iron_%26_Wine,human,Iron_%26_Wine,3.814932702092209
+within the rose,WoA,looking for more sad songs in the same vein as things like funeral by phoebe bridges trapeze swing by iron and wine | within the rose by matthew and the atlas | any suggestions for songs that got this mood,,,,0.0
+matthew and the atlas,Artist,looking for more sad songs in the same vein as things like funeral by phoebe bridges trapeze swing by iron and wine | within the rose by matthew and the atlas | any suggestions for songs that got this mood,,,,0.0
+scott pilgrim vs the world,WoA,scott pilgrim vs the world,https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World,film,Scott_Pilgrim_vs._the_World,3.532981153477172
+el cu cuy,WoA,coal chamber el cu cuy,,,,0.0
+coal chamber,Artist,coal chamber el cu cuy,https://en.wikipedia.org/wiki/Coal_Chamber,musical group,Coal_Chamber,3.45470085093598
+evil woman,WoA,bluesy songs kinda like evil woman by black sabbath,https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song),musical work/composition,Evil_Woman_(Electric_Light_Orchestra_song),2.005330483834926
+black sabbath,Artist,bluesy songs kinda like evil woman by black sabbath,https://en.wikipedia.org/wiki/Black_Sabbath,heavy metal band,Black_Sabbath,6.657747639273763
+i took a pill in ibiza,WoA,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/I_Took_a_Pill_in_Ibiza,single,I_Took_a_Pill_in_Ibiza,1.386493408317106
+seeb,Artist,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/Seeb_(music_producers),musical duo,Seeb_(music_producers),1.6393484301447376
+in the middle,WoA,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/In_the_Middle_(Sugababes_song),single,In_the_Middle_(Sugababes_song),1.045328003747933
+dj snake,Artist,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/DJ_Snake,human,DJ_Snake,3.5902607161812643
+lush life,WoA,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/Lush_Life_(Zara_Larsson_song),musical work/composition,Lush_Life_(Zara_Larsson_song),0.9648927827131876
+zara larsson,Artist,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/Zara_Larsson,human,Zara_Larsson,3.2151156541389128
+be the one,WoA,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/Be_the_One_(Dua_Lipa_song),single,Be_the_One_(Dua_Lipa_song),0.9633845760548958
+dua lipa,Artist,songs similar to i took a pill in ibiza seeb remix in the middle dj snake lush life zara larsson be the one | dua lipa,https://en.wikipedia.org/wiki/Dua_Lipa,human,Dua_Lipa,3.388220961244567
+curve,Artist,any modern bands from 2010s inspired by curve with a female vocalist faster pop rock hooks soaring choruses and atmospheric wall of guitars,https://en.wikipedia.org/wiki/Curve_(band),musical group,Curve_(band),3.076141346154106
+drunk walk home,WoA,looking for songs like drunk walk home by mitski,,,,0.0
+mitski,Artist,looking for songs like drunk walk home by mitski,https://en.wikipedia.org/wiki/Mitski,human,Mitski,1.2585062886525051
+guardians of the galaxy,WoA,songs perfect for guardians of the galaxy,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(soundtrack),album,Guardians_of_the_Galaxy_(soundtrack),0.8933516160811497
+ten feet,WoA,something like ten feet by curio,https://en.wikipedia.org/wiki/Ten_Feet_High,album,Ten_Feet_High,0.7247322508385068
+curio,Artist,something like ten feet by curio,https://en.wikipedia.org/wiki/Curio_(band),musical group,Curio_(band),0.1109712790572956
+spottieottiedopaliscious,WoA,songs like spottieottiedopaliscious by outcast,,,,0.0
+outcast,Artist,songs like spottieottiedopaliscious by outcast,https://en.wikipedia.org/wiki/Outcast_(person),human,Outcast_(person),2.596750613526943
+gnaw,WoA,songs like gnaw by alex g,https://en.wikipedia.org/wiki/Food_of_the_Gods_II,film,Food_of_the_Gods_II,0.3744432588520947
+alex g,Artist,songs like gnaw by alex g,https://en.wikipedia.org/wiki/Alex_G,human,Alex_G,1.5122618569864643
+lindécis,Artist,lindécis soulful chill remix,,,,0.0
+soulful,WoA,lindécis soulful chill remix,https://en.wikipedia.org/wiki/Soulful_(Dionne_Warwick_album),album,Soulful_(Dionne_Warwick_album),0.4378857184359166
+post malone,Artist,similar relaxing tunes to post malone psycho,https://en.wikipedia.org/wiki/Post_Malone,human,Post_Malone,3.190445301013062
+psycho,WoA,similar relaxing tunes to post malone psycho,https://en.wikipedia.org/wiki/Psycho_(Post_Malone_song),single,Psycho_(Post_Malone_song),0.2945310325618475
+milky chance,Artist,any songs like milky chance running,https://en.wikipedia.org/wiki/Milky_Chance,musical group,Milky_Chance,1.9969702569813013
+running,WoA,any songs like milky chance running,https://en.wikipedia.org/wiki/Running_(Andr%C3%A1s_K%C3%A1llay-Saunders_song),single,Running_(Andr%C3%A1s_K%C3%A1llay-Saunders_song),0.7069103211842567
+little lion man,WoA,music like little lion man by mumford & sons,https://en.wikipedia.org/wiki/Little_Lion_Man,single,Little_Lion_Man,1.0703819816777482
+mumford & sons,Artist,music like little lion man by mumford & sons,https://en.wikipedia.org/wiki/Mumford_%26_Sons,musical group,Mumford_%26_Sons,4.432288214964414
+6 underground,WoA,similar to 6 underground by sneaker pimps,https://en.wikipedia.org/wiki/6_Underground_(song),single,6_Underground_(song),0.0
+sneaker pimps,Artist,similar to 6 underground by sneaker pimps,https://en.wikipedia.org/wiki/Sneaker_Pimps,musical group,Sneaker_Pimps,3.159103217995046
+bishop gunn,Artist,what are some other artists like bishop gunn,https://en.wikipedia.org/wiki/Bishop_Gunn,musical group,Bishop_Gunn,0.0
+this must be the place | naive melody,WoA,songs that have the same feeling as this must be the place | naive melody,,,,0.0
+westworld,WoA,looking for something to listen to like westworld soundtrack,https://en.wikipedia.org/wiki/Westworld:_Season_1_(soundtrack),album,Westworld:_Season_1_(soundtrack),0.0
+just my imagination,WoA,songs similar to just my imagination by the temptations,https://en.wikipedia.org/wiki/Just_My_Imagination_(The_Cranberries_song),single,Just_My_Imagination_(The_Cranberries_song),0.2900655250433583
+the temptations,Artist,songs similar to just my imagination by the temptations,https://en.wikipedia.org/wiki/The_Temptations,musical group,The_Temptations,5.807450376517929
+m2us,Artist,something like m2us magnolia without the dubstep,,,,0.0
+magnolia,WoA,something like m2us magnolia without the dubstep,https://en.wikipedia.org/wiki/Magnolia_(film),film,Magnolia_(film),3.562889323671285
+perry comos,Artist,request songs like perry comos anema e core | mediterranean love sentimental music,https://en.wikipedia.org/wiki/Perry_Como,human,Perry_Como,5.407950055335313
+anema e core,WoA,request songs like perry comos anema e core | mediterranean love sentimental music,https://en.wikipedia.org/wiki/Anema_e_core_(song),musical work/composition,Anema_e_core_(song),0.9736898135783428
+hotel california,WoA,noob here who loves 39 drift away hotel california suggest me some songs and especially bands,https://en.wikipedia.org/wiki/Hotel_California,song,Hotel_California,2.8875000166715807
+drift away,WoA,noob here who loves 39 drift away hotel california suggest me some songs and especially bands,https://en.wikipedia.org/wiki/Drift_Away,single,Drift_Away,2.008067703967667
+39,WoA,noob here who loves 39 drift away hotel california suggest me some songs and especially bands,https://en.wikipedia.org/wiki/39_(album),album,39_(album),0.0
+waves,WoA,looking for music similar to waves by the bahamas,https://en.wikipedia.org/wiki/Waves_(Mr._Probz_song),single,Waves_(Mr._Probz_song),0.0
+the bahamas,Artist,looking for music similar to waves by the bahamas,,,,0.0
+a moon shaped pool,WoA,like daydreaming from a moon shaped pool by radiohead,https://en.wikipedia.org/wiki/A_Moon_Shaped_Pool,album,A_Moon_Shaped_Pool,2.0551129569396576
+radiohead,Artist,like daydreaming from a moon shaped pool by radiohead,https://en.wikipedia.org/wiki/Radiohead,musical group,Radiohead,6.562410151614332
+daydreaming,WoA,like daydreaming from a moon shaped pool by radiohead,https://en.wikipedia.org/wiki/Daydreaming_(Radiohead_song),single,Daydreaming_(Radiohead_song),0.4734742643485674
+lady leshurr,Artist,female rap grime drill artists over the age of 30 | like lady leshurr or sa roc,https://en.wikipedia.org/wiki/Lady_Leshurr,human,Lady_Leshurr,1.9294882705024
+sa roc,Artist,female rap grime drill artists over the age of 30 | like lady leshurr or sa roc,https://en.wikipedia.org/wiki/Sa-Roc,human,Sa-Roc,0.0
+yesterday,WoA,looking for more songs similar in concept to yesterday by the beatles,https://en.wikipedia.org/wiki/Yesterday_(Beatles_song),musical work/composition,Yesterday_(Beatles_song),4.169866545000705
+the beatles,Artist,looking for more songs similar in concept to yesterday by the beatles,https://en.wikipedia.org/wiki/The_Beatles,rock group,The_Beatles,8.838585733458892
+stranger,WoA,looking for songs like the alternative stranger from skrillex,https://en.wikipedia.org/wiki/Stranger_(Hilary_Duff_song),single,Stranger_(Hilary_Duff_song),0.8732571977687122
+skrillex,Artist,looking for songs like the alternative stranger from skrillex,https://en.wikipedia.org/wiki/Jack_%C3%9C,musical duo,Jack_%C3%9C,2.338610740542359
+slip away,WoA,solos like slip away by mad season,https://en.wikipedia.org/wiki/Slip_Away_(Sanjoy_song),single,Slip_Away_(Sanjoy_song),0.0
+mad season,Artist,solos like slip away by mad season,https://en.wikipedia.org/wiki/Mad_Season_(band),supergroup,Mad_Season_(band),2.3727760972884475
+in this moment,Artist,similar to in this moment or pretty reckless,https://en.wikipedia.org/wiki/In_This_Moment,rock group,In_This_Moment,3.3327461964996026
+pretty reckless,Artist,similar to in this moment or pretty reckless,https://en.wikipedia.org/wiki/The_Pretty_Reckless,musical group,The_Pretty_Reckless,3.036611997968942
+shes gone away,WoA,looking for songs similar to shes gone away by nin,,,,0.0
+nin,Artist,looking for songs similar to shes gone away by nin,https://en.wikipedia.org/wiki/Nine_Inch_Nails,musical group,Nine_Inch_Nails,6.2073476484124885
+childish gambinos,Artist,electronic featuring low hymn chant similar to background in childish gambinos bonfire,https://en.wikipedia.org/wiki/Donald_Glover,human,Donald_Glover,4.559153054829544
+bonfire,WoA,electronic featuring low hymn chant similar to background in childish gambinos bonfire,https://en.wikipedia.org/wiki/Bonfire_(album),album,Bonfire_(album),1.3659942739798243
+blacks,Artist,songs where youre not sure if you should trust the artists statement like blacks wonderful life lou reeds perfect day and coldplays dont panic | we live in a beautiful world,https://en.wikipedia.org/wiki/Black_(singer),human,Black_(singer),2.438792275043033
+lou reeds,Artist,songs where youre not sure if you should trust the artists statement like blacks wonderful life lou reeds perfect day and coldplays dont panic | we live in a beautiful world,https://en.wikipedia.org/wiki/Lou_Reed,human,Lou_Reed,6.187255994552006
+wonderful life,WoA,songs where youre not sure if you should trust the artists statement like blacks wonderful life lou reeds perfect day and coldplays dont panic | we live in a beautiful world,https://en.wikipedia.org/wiki/Wonderful_Life_(Black_song),single,Wonderful_Life_(Black_song),1.274079681306702
+perfect day,WoA,songs where youre not sure if you should trust the artists statement like blacks wonderful life lou reeds perfect day and coldplays dont panic | we live in a beautiful world,https://en.wikipedia.org/wiki/Perfect_Day_(Lou_Reed_song),musical work/composition,Perfect_Day_(Lou_Reed_song),2.659257612460328
+coldplays,Artist,songs where youre not sure if you should trust the artists statement like blacks wonderful life lou reeds perfect day and coldplays dont panic | we live in a beautiful world,https://en.wikipedia.org/wiki/Coldplay,musical group,Coldplay,6.622045366823382
+dont panic | we live in a beautiful world,WoA,songs where youre not sure if you should trust the artists statement like blacks wonderful life lou reeds perfect day and coldplays dont panic | we live in a beautiful world,,,,0.0
+nursery,WoA,looking for songs genre with a similar beat to the end of nursery bbno$,https://en.wikipedia.org/wiki/Nursery_Cryme,album,Nursery_Cryme,2.138394535673168
+bbno$,Artist,looking for songs genre with a similar beat to the end of nursery bbno$,https://en.wikipedia.org/wiki/Bbno$,human,Bbno$,0.0
+say it aint so,WoA,songs like say it aint so by weezer,,,,0.0
+weezer,Artist,songs like say it aint so by weezer,https://en.wikipedia.org/wiki/Weezer,rock group,Weezer,5.548280292067792
+yoe mase,Artist,looking for songs like yoe mase ptsd,,,,0.0
+ptsd,WoA,looking for songs like yoe mase ptsd,https://en.wikipedia.org/wiki/PTSD_(G_Herbo_album),album,PTSD_(G_Herbo_album),0.0
+morrissey,Artist,music like morrissey and the smiths,https://en.wikipedia.org/wiki/Morrissey%E2%80%93Mullen,musical group,Morrissey%E2%80%93Mullen,2.075951545299196
+the smiths,Artist,music like morrissey and the smiths,https://en.wikipedia.org/wiki/The_Smiths,rock group,The_Smiths,5.71741657469707
+bad guy,WoA,song similar to the first minute of bad guy by billie eilish,https://en.wikipedia.org/wiki/Bad_Guy_(Billie_Eilish_song),single,Bad_Guy_(Billie_Eilish_song),0.0
+billie eilish,Artist,song similar to the first minute of bad guy by billie eilish,https://en.wikipedia.org/wiki/Billie_Eilish,human,Billie_Eilish,1.2056049258203494
+the main squeeze,Artist,bands like the main squeeze tauk,https://en.wikipedia.org/wiki/The_Main_Squeeze,musical group,The_Main_Squeeze,0.0
+tauk,Artist,bands like the main squeeze tauk,https://en.wikipedia.org/wiki/Tauk_(band),musical group,Tauk_(band),0.2057948712810038
+roderick porter,Artist,something like roderick porter baby,,,,0.0
+baby,WoA,something like roderick porter baby,https://en.wikipedia.org/wiki/Baby_(Justin_Bieber_song),song,Baby_(Justin_Bieber_song),2.714717423943286
+morphine,Artist,music similar to morphine robocobra quartett | featuring elements like saxophone prominent bass,https://en.wikipedia.org/wiki/Morphine_(band),musical group,Morphine_(band),2.9100793965541527
+robocobra quartett,Artist,music similar to morphine robocobra quartett | featuring elements like saxophone prominent bass,,,,0.0
+who loves the sun,WoA,songs similar to these couple house songs | who loves the sun electricity stay,https://en.wikipedia.org/wiki/Who_Loves_the_Sun,film,Who_Loves_the_Sun,0.2633544915558232
+electricity stay,WoA,songs similar to these couple house songs | who loves the sun electricity stay,,,,0.0
+white pony,WoA,albums that are similar to white pony by deftones or devil and god are raging inside me by brand new,https://en.wikipedia.org/wiki/White_Pony,album,White_Pony,1.8047181376002115
+deftones,Artist,albums that are similar to white pony by deftones or devil and god are raging inside me by brand new,https://en.wikipedia.org/wiki/Deftones,rock group,Deftones,5.133547642523853
+devil and god are raging inside me,WoA,albums that are similar to white pony by deftones or devil and god are raging inside me by brand new,,,,0.0
+brand new,Artist,albums that are similar to white pony by deftones or devil and god are raging inside me by brand new,https://en.wikipedia.org/wiki/Brand_New_(band),musical group,Brand_New_(band),3.903079117748044
+particle ants,WoA,know any glitchy songs like virtual self particle ants,,,,0.0
+virtual self,Artist,know any glitchy songs like virtual self particle ants,https://en.wikipedia.org/wiki/Porter_Robinson,human,Porter_Robinson,3.2845958366737893
+photek,Artist,any chill psychedelic dnb like photek,https://en.wikipedia.org/wiki/Photek,human,Photek,2.71380341361596
+the brothers brights,Artist,songs similar to the brothers brights awake o sleeper,,,,0.0
+awake o sleeper,WoA,songs similar to the brothers brights awake o sleeper,,,,0.0
+of monsters and men,Artist,something similar to of monsters and men,https://en.wikipedia.org/wiki/Of_Monsters_and_Men,musical group,Of_Monsters_and_Men,3.364138367387506
+who did you think i was,WoA,give some songs with a similar style to this blues rock funk rock song who did you think i was,https://en.wikipedia.org/wiki/Who_Did_You_Think_I_Was,single,Who_Did_You_Think_I_Was,0.0
+lost boys,Artist,looking for music similar to this lost boys banger,https://en.wikipedia.org/wiki/Lost_Boyz,musical group,Lost_Boyz,2.6487773012294458
+no church in the wild,WoA,anything similar to no church in the wild,https://en.wikipedia.org/wiki/No_Church_in_the_Wild,song,No_Church_in_the_Wild,1.7278440188142137
+i love you baby,WoA,im looking for nice relaxing pop music like i love you baby,https://en.wikipedia.org/wiki/I_Love_You_Baby_(film),film,I_Love_You_Baby_(film),0.0
+core,WoA,songs like core by rl grime,https://en.wikipedia.org/wiki/Core_(Stone_Temple_Pilots_album),album,Core_(Stone_Temple_Pilots_album),1.7971717428299847
+rl grime,Artist,songs like core by rl grime,https://en.wikipedia.org/wiki/RL_Grime,human,RL_Grime,1.946327576542993
+highly suspect,Artist,songs similar to 16 by highly suspect,https://en.wikipedia.org/wiki/Highly_Suspect,rock group,Highly_Suspect,1.8062173689092464
+16,WoA,songs similar to 16 by highly suspect,https://en.wikipedia.org/wiki/16_(Robin_album),album,16_(Robin_album),0.0
+milck,Artist,songs like devil devil by milck or prom queen by molly kate kestner,https://en.wikipedia.org/wiki/Milck,human,Milck,0.0
+devil devil,WoA,songs like devil devil by milck or prom queen by molly kate kestner,,,,0.0
+prom queen,WoA,songs like devil devil by milck or prom queen by molly kate kestner,https://en.wikipedia.org/wiki/Prom_Queen_(Lil_Wayne_song),single,Prom_Queen_(Lil_Wayne_song),0.0
+molly kate kestner,Artist,songs like devil devil by milck or prom queen by molly kate kestner,https://en.wikipedia.org/wiki/Molly_Kate_Kestner,human,Molly_Kate_Kestner,0.5093627886452605
+capital cities,Artist,music similar to capital cities,https://en.wikipedia.org/wiki/Capital_Cities_(band),musical duo,Capital_Cities_(band),2.8366904042592367
+help im alive,WoA,looking for something similar to the first 35 seconds of help im alive by metric,,,,0.0
+metric,Artist,looking for something similar to the first 35 seconds of help im alive by metric,https://en.wikipedia.org/wiki/Metric_(band),musical group,Metric_(band),3.903786581520036
+you and me and jack,WoA,music similar to this you and me and jack willing to give gold if i there are some good suggestions mark engel in general,,,,0.0
+mark engel,Artist,music similar to this you and me and jack willing to give gold if i there are some good suggestions mark engel in general,https://en.wikipedia.org/wiki/Mark_Engel,human,Mark_Engel,0.0
+khaen,Artist,music similar to khaen whims,https://en.wikipedia.org/wiki/Khaemweset,human,Khaemweset,2.043558469158656
+whims,WoA,music similar to khaen whims,https://en.wikipedia.org/wiki/Whims_of_Chambers,album,Whims_of_Chambers,0.4562938695601186
+mindless self indulgence,Artist,bands like mindless self indulgence,https://en.wikipedia.org/wiki/Mindless_Self_Indulgence,musical group,Mindless_Self_Indulgence,3.4425674302233364
+rhcp,Artist,gimme that rhcp give it away vibe i love so dearly,https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers,rock group,Red_Hot_Chili_Peppers,6.46590908197542
+give it away,WoA,gimme that rhcp give it away vibe i love so dearly,https://en.wikipedia.org/wiki/Give_It_Away_(Red_Hot_Chili_Peppers_song),single,Give_It_Away_(Red_Hot_Chili_Peppers_song),2.56396897259644
+january,WoA,songs similar to january by verzache,https://en.wikipedia.org/wiki/January_(album),album,January_(album),0.0
+verzache,Artist,songs similar to january by verzache,https://en.wikipedia.org/wiki/Verzache,human,Verzache,0.0
+taylor swift,Artist,looking for female pop music similar to taylor swift reputation and maybe something like dua lipa,https://en.wikipedia.org/wiki/Taylor_Swift,human,Taylor_Swift,6.401572044065052
+dua lipa,Artist,looking for female pop music similar to taylor swift reputation and maybe something like dua lipa,https://en.wikipedia.org/wiki/Dua_Lipa,human,Dua_Lipa,3.388220961244567
+reputation,WoA,looking for female pop music similar to taylor swift reputation and maybe something like dua lipa,https://en.wikipedia.org/wiki/Reputation_(album),album,Reputation_(album),0.0
+woodstock,WoA,songs similar to woodstock by jon bellion or the less i know the better by tame impala,,,,0.0
+jon bellion,Artist,songs similar to woodstock by jon bellion or the less i know the better by tame impala,https://en.wikipedia.org/wiki/Jon_Bellion,human,Jon_Bellion,2.245796259530268
+the less i know the better,WoA,songs similar to woodstock by jon bellion or the less i know the better by tame impala,https://en.wikipedia.org/wiki/The_Less_I_Know_the_Better,single,The_Less_I_Know_the_Better,0.657607258633508
+tame impala,Artist,songs similar to woodstock by jon bellion or the less i know the better by tame impala,https://en.wikipedia.org/wiki/Tame_Impala,musical group,Tame_Impala,3.877230085010712
+fka twigs,Artist,can you recommend musicians like fka twigs,https://en.wikipedia.org/wiki/FKA_Twigs,human,FKA_Twigs,3.168530577675398
+metallica,Artist,metallica songs suggest,https://en.wikipedia.org/wiki/Metallica,heavy metal band,Metallica,7.114205696370013
+drive by,WoA,songs sounds like drive by by lil peep,https://en.wikipedia.org/wiki/Drive_By_(song),single,Drive_By_(song),1.431351945122696
+lil peep,Artist,songs sounds like drive by by lil peep,https://en.wikipedia.org/wiki/Lil_Peep,human,Lil_Peep,2.231795390320613
+willie colon,Artist,if i like willie colon la murga what else will i like,https://en.wikipedia.org/wiki/Willie_Col%C3%B3n,human,Willie_Col%C3%B3n,3.42785432848922
+la murga,WoA,if i like willie colon la murga what else will i like,https://en.wikipedia.org/wiki/La_Murga,film,La_Murga,0.3079797061595393
+kiwi,WoA,looking for songs that sound like kiwi by harry styles,https://en.wikipedia.org/wiki/Kiwi_(song),single,Kiwi_(song),0.1450872738236963
+harry styles,Artist,looking for songs that sound like kiwi by harry styles,https://en.wikipedia.org/wiki/Harry_Styles,human,Harry_Styles,3.4338020798648934
+together,WoA,similar song to together martin garrix and let me feel nicky romero&vicetone,https://en.wikipedia.org/wiki/Together_(Ryan_O%27Shaughnessy_song),musical work/composition,Together_(Ryan_O%27Shaughnessy_song),0.0
+martin garrix,Artist,similar song to together martin garrix and let me feel nicky romero&vicetone,https://en.wikipedia.org/wiki/Martin_Garrix,human,Martin_Garrix,4.01957041189303
+nicky romero,Artist,similar song to together martin garrix and let me feel nicky romero&vicetone,https://en.wikipedia.org/wiki/Nicky_Romero,human,Nicky_Romero,3.268993429670818
+vicetone,Artist,similar song to together martin garrix and let me feel nicky romero&vicetone,https://en.wikipedia.org/wiki/Vicetone,musical duo,Vicetone,1.8487431934830096
+let me feel,WoA,similar song to together martin garrix and let me feel nicky romero&vicetone,https://en.wikipedia.org/wiki/Let_Me_Feel_Your_Power,album,Let_Me_Feel_Your_Power,0.0
+x ambassadors,Artist,songs similar to dont stay by x ambassadors,https://en.wikipedia.org/wiki/X_Ambassadors,musical group,X_Ambassadors,2.8286949229973253
+dont stay,WoA,songs similar to dont stay by x ambassadors,,,,0.0
+elephant,WoA,looking for some songs similar to elephant sebastian wibe,https://en.wikipedia.org/wiki/Elephant_(album),album,Elephant_(album),2.2421550704670654
+sebastian,Artist,looking for some songs similar to elephant sebastian wibe,https://en.wikipedia.org/wiki/Sebastian_(singer),human,Sebastian_(singer),1.3807339960639968
+troy baker,Artist,music similar to troy baker,https://en.wikipedia.org/wiki/Troy_Baker,human,Troy_Baker,3.706611872373761
+the smiths,Artist,playlist dedicated to songs similar in feel and vibe than the smiths any suggestions | and what do you think,https://en.wikipedia.org/wiki/The_Smiths,rock group,The_Smiths,5.71741657469707
+j cole,Artist,suggestions for j cole,https://en.wikipedia.org/wiki/J._Cole,human,J._Cole,4.7019309230135455
+the hives,Artist,something like the hives,https://en.wikipedia.org/wiki/The_Hives,musical group,The_Hives,4.199991059926729
+felix cartal,Artist,songs like felix cartal and lights love me,https://en.wikipedia.org/wiki/Felix_Cartal,human,Felix_Cartal,1.7046956367831232
+lights,Artist,songs like felix cartal and lights love me,https://en.wikipedia.org/wiki/Lights_(musician),human,Lights_(musician),3.531398248516666
+love me,WoA,songs like felix cartal and lights love me,https://en.wikipedia.org/wiki/Love_Me_(Justin_Bieber_song),song,Love_Me_(Justin_Bieber_song),0.720665689753174
+the oh hellos,Artist,songs like danse macabre by the oh hellos,https://en.wikipedia.org/wiki/The_Oh_Hellos,musical group,The_Oh_Hellos,0.5812138722969831
+danse macabre,WoA,songs like danse macabre by the oh hellos,https://en.wikipedia.org/wiki/Danse_macabre_(Saint-Sa%C3%ABns),musical work/composition,Danse_macabre_(Saint-Sa%C3%ABns),2.087577587278954
+trudy and the romance,Artist,bands similar to trudy and the romance,,,,0.0
+futures,Artist,searching for songs like futures mask off,https://en.wikipedia.org/wiki/Futures_(band),musical group,Futures_(band),1.0535316108744637
+mask off,WoA,searching for songs like futures mask off,https://en.wikipedia.org/wiki/Mask_Off,song,Mask_Off,1.2178389286756506
+let em talk,WoA,looking for pop rock power songs like this let em talk,,,,0.0
+mini ladds,Artist,songs like the mini ladds remix,https://en.wikipedia.org/wiki/Mini_Ladd,human,Mini_Ladd,0.0
+a place only we know,WoA,a song similar to a place only we know female singer in blue dress playing a grand piano,,,,0.0
+kashiwa daisuke,Artist,share music or artists similar to kashiwa daisuke,,,,0.0
+chris stapleton,Artist,similar to chris stapleton or first aid kit,https://en.wikipedia.org/wiki/Chris_Stapleton,human,Chris_Stapleton,3.780613542765673
+first aid kit,Artist,similar to chris stapleton or first aid kit,https://en.wikipedia.org/wiki/First_Aid_Kit_(band),musical duo,First_Aid_Kit_(band),2.8409567151677155
+lunar vacation,Artist,lunar vacation,,,,0.0
+muse,Artist,songs like muse plug in baby,https://en.wikipedia.org/wiki/Muse_(band),rock group,Muse_(band),5.777235069907981
+plug in baby,WoA,songs like muse plug in baby,https://en.wikipedia.org/wiki/Plug_In_Baby,song,Plug_In_Baby,1.2029992270519188
+snowy white,Artist,looking for something similar to snowy white midnight blues,https://en.wikipedia.org/wiki/Snowy_White,human,Snowy_White,3.2871736094632027
+midnight blues,WoA,looking for something similar to snowy white midnight blues,,,,0.0
+keytalk,Artist,looking for english light rock bands similar to keytalk and gogovanillas,https://en.wikipedia.org/wiki/Keytalk,musical group,Keytalk,0.1455859559839307
+gogovanillas,Artist,looking for english light rock bands similar to keytalk and gogovanillas,,,,0.0
+lana del rey,Artist,looking for bands or artists like lana del rey the weeknd joji and hozier,https://en.wikipedia.org/wiki/Lana_Del_Rey,human,Lana_Del_Rey,5.074174549179384
+the weeknd,Artist,looking for bands or artists like lana del rey the weeknd joji and hozier,https://en.wikipedia.org/wiki/The_Weeknd,human,The_Weeknd,5.088768815354845
+joji,Artist,looking for bands or artists like lana del rey the weeknd joji and hozier,https://en.wikipedia.org/wiki/Joji_(musician),human,Joji_(musician),0.0
+hozier,Artist,looking for bands or artists like lana del rey the weeknd joji and hozier,https://en.wikipedia.org/wiki/Hozier_(musician),human,Hozier_(musician),3.203008067032896
+nevermind,WoA,songs with a vibe like nevermind by leonard cohen,https://en.wikipedia.org/wiki/Nevermind,album,Nevermind,3.931480480062192
+leonard cohen,Artist,songs with a vibe like nevermind by leonard cohen,https://en.wikipedia.org/wiki/Leonard_Cohen,human,Leonard_Cohen,5.9750180059349685
+lewis del mar,Artist,rks lewis del mar,https://en.wikipedia.org/wiki/Lewis_Del_Mar,musical group,Lewis_Del_Mar,0.7210503431198081
+rks,Artist,rks lewis del mar,https://en.wikipedia.org/wiki/Ray_Kurzweil,human,Ray_Kurzweil,3.71885753603544
+paris,WoA,any bands with songs similar in style to paris by the chainsmokers,,,,0.0
+the chainsmokers,Artist,any bands with songs similar in style to paris by the chainsmokers,https://en.wikipedia.org/wiki/The_Chainsmokers,musical duo,The_Chainsmokers,4.217898267730863
+seventh son,WoA,prog metal like seventh son and operation mind crime,https://en.wikipedia.org/wiki/Seventh_Son_of_a_Seventh_Son,album,Seventh_Son_of_a_Seventh_Son,2.1527447084951064
+operation mind crime,Artist,prog metal like seventh son and operation mind crime,,,,0.0
+raven link,Artist,love the drop in this song raven link change feat | caver,,,,0.0
+change,WoA,love the drop in this song raven link change feat | caver,https://en.wikipedia.org/wiki/Change_(Sugababes_album),album,Change_(Sugababes_album),1.6944598736665597
+caver,Artist,love the drop in this song raven link change feat | caver,https://en.wikipedia.org/wiki/Cave_(band),musical group,Cave_(band),0.5156327165599279
+i see you,WoA,songs similar to i see you by kygo ft billy raffoul,https://en.wikipedia.org/wiki/I_See_You_(The_xx_album),album,I_See_You_(The_xx_album),1.044935321669481
+kygo,Artist,songs similar to i see you by kygo ft billy raffoul,https://en.wikipedia.org/wiki/Kygo,human,Kygo,3.4934939107280094
+billy raffoul,Artist,songs similar to i see you by kygo ft billy raffoul,https://en.wikipedia.org/wiki/Billy_Raffoul,human,Billy_Raffoul,0.0
+sufjan,Artist,new music if i like sufjan beach house radiohead talking heads car seat headrest and the strokes,https://en.wikipedia.org/wiki/Sufjan_Stevens,human,Sufjan_Stevens,4.435115140861262
+beach house,Artist,new music if i like sufjan beach house radiohead talking heads car seat headrest and the strokes,https://en.wikipedia.org/wiki/Beach_House,musical group,Beach_House,3.401281470412094
+radiohead,Artist,new music if i like sufjan beach house radiohead talking heads car seat headrest and the strokes,https://en.wikipedia.org/wiki/Radiohead,musical group,Radiohead,6.562410151614332
+talking heads,Artist,new music if i like sufjan beach house radiohead talking heads car seat headrest and the strokes,https://en.wikipedia.org/wiki/Talking_Heads,rock group,Talking_Heads,5.595224894091164
+car seat headrest,Artist,new music if i like sufjan beach house radiohead talking heads car seat headrest and the strokes,https://en.wikipedia.org/wiki/Car_Seat_Headrest,musical group,Car_Seat_Headrest,1.8447918465728816
+the strokes,Artist,new music if i like sufjan beach house radiohead talking heads car seat headrest and the strokes,https://en.wikipedia.org/wiki/The_Strokes,rock group,The_Strokes,4.93731178203366
+dragons dogma,WoA,looking for something like dragons dogma into free dangan,,,,0.0
+into free dangan,WoA,looking for something like dragons dogma into free dangan,,,,0.0
+gungor,Artist,12 seconds of gungor i am mountain,https://en.wikipedia.org/wiki/Gungor,musical group,Gungor,0.7015889191686586
+i am mountain,WoA,12 seconds of gungor i am mountain,,,,0.0
+starlight brigade,WoA,searching for epic songs with vocals | like starlight brigade or rise or live to win,,,,0.0
+live to win,WoA,searching for epic songs with vocals | like starlight brigade or rise or live to win,https://en.wikipedia.org/wiki/Live_to_Win,album,Live_to_Win,1.0199008764512296
+rise,WoA,searching for epic songs with vocals | like starlight brigade or rise or live to win,https://en.wikipedia.org/wiki/Rise_(Katy_Perry_song),single,Rise_(Katy_Perry_song),0.8378109037119561
+all dead all dead,WoA,all dead all dead queen,"https://en.wikipedia.org/wiki/All_Dead,_All_Dead",musical work/composition,"All_Dead,_All_Dead",0.0
+queen,Artist,all dead all dead queen,https://en.wikipedia.org/wiki/Queen_(band),rock group,Queen_(band),6.9912204735263455
+dulce,WoA,came across dulce by flofilz looking for similar vibes,https://en.wikipedia.org/wiki/Dulce_(song),single,Dulce_(song),0.0
+flofilz,Artist,came across dulce by flofilz looking for similar vibes,,,,0.0
+amour plastique,WoA,songs like amour plastique,,,,0.0
+dreams,WoA,looking for music that has a pause before the drop similar to zhu&nero dreams,https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song),musical work/composition,Dreams_(Fleetwood_Mac_song),2.5269812567746364
+zhu,Artist,looking for music that has a pause before the drop similar to zhu&nero dreams,https://en.wikipedia.org/wiki/Zhu_(musician),human,Zhu_(musician),1.7756445963457723
+nero,Artist,looking for music that has a pause before the drop similar to zhu&nero dreams,https://en.wikipedia.org/wiki/Nero_(band),musical group,Nero_(band),3.006991873350101
+goodbye love,WoA,songs in same style as goodbye love by car seat headrest,https://en.wikipedia.org/wiki/Goodbye_Lover,film,Goodbye_Lover,1.2388315393042273
+car seat headrest,Artist,songs in same style as goodbye love by car seat headrest,https://en.wikipedia.org/wiki/Car_Seat_Headrest,musical group,Car_Seat_Headrest,1.8447918465728816
+just friends,Artist,suggest any emo punk bands like snowing or just friends,https://en.wikipedia.org/wiki/Just_Friends_(band),musical group,Just_Friends_(band),0.0
+snowing,Artist,suggest any emo punk bands like snowing or just friends,https://en.wikipedia.org/wiki/Snowing_(band),organization,Snowing_(band),0.5996468553803442
+bliss n eso,Artist,more songs like act your age by bliss n eso | specifically like the upbeat lighthearted nature of the song its oddly motivating for me,https://en.wikipedia.org/wiki/Bliss_n_Eso,musical group,Bliss_n_Eso,2.916372924927682
+act your age,WoA,more songs like act your age by bliss n eso | specifically like the upbeat lighthearted nature of the song its oddly motivating for me,https://en.wikipedia.org/wiki/Act_Your_Age_(Home_Grown_album),album,Act_Your_Age_(Home_Grown_album),0.0
+glisten interlude,WoA,song like glisten interlude jeremy zucker,,,,0.0
+jeremy zucker,Artist,song like glisten interlude jeremy zucker,https://en.wikipedia.org/wiki/Jeremy_Zucker,human,Jeremy_Zucker,0.0
+rev theorys,Artist,unrelenting energy like rev theorys hell yeah,https://en.wikipedia.org/wiki/Rev_Theory,rock group,Rev_Theory,2.409432647773153
+hell yeah,WoA,unrelenting energy like rev theorys hell yeah,https://en.wikipedia.org/wiki/Hell_Yeah_(KMFDM_album),album,Hell_Yeah_(KMFDM_album),0.0
+j dillas,Artist,albums like j dillas donuts,https://en.wikipedia.org/wiki/J_Dilla,human,J_Dilla,4.5881546763395455
+donuts,WoA,albums like j dillas donuts,https://en.wikipedia.org/wiki/Donuts_(album),album,Donuts_(album),1.679684775657826
+glass animals,Artist,music similar to glass animals,https://en.wikipedia.org/wiki/Glass_Animals,musical group,Glass_Animals,2.3796181877263543
+rise against,Artist,a couple of requests anything that sounds like rise against and some good modern punk that actually sounds different and not ironically really unoriginal,https://en.wikipedia.org/wiki/Rise_Against,rock group,Rise_Against,4.618100721271983
+dream koala,Artist,looking for things like dream koala that dont degenerate into a single sound for the length of the song,,,,0.0
+deer creek canyon,WoA,songs similar to deer creek canyon by sera cahoone,https://en.wikipedia.org/wiki/Deer_Creek_Canyon,album,Deer_Creek_Canyon,0.0
+sera cahoone,Artist,songs similar to deer creek canyon by sera cahoone,https://en.wikipedia.org/wiki/Sera_Cahoone,human,Sera_Cahoone,1.380888971663321
+gunship,Artist,anything that resembles gunship and the midnight,https://en.wikipedia.org/wiki/Gunship_(band),musical group,Gunship_(band),0.5520375634166008
+the midnight,Artist,anything that resembles gunship and the midnight,https://en.wikipedia.org/wiki/The_Midnight,musical group,The_Midnight,0.0
+fleetwood mac,Artist,folky country songs like fleetwood mac the chain & crosby stills and nash helplessly hoping,https://en.wikipedia.org/wiki/Fleetwood_Mac,rock group,Fleetwood_Mac,6.0841122331975175
+crosby stills and nash,Artist,folky country songs like fleetwood mac the chain & crosby stills and nash helplessly hoping,,,,0.0
+helplessly hoping,WoA,folky country songs like fleetwood mac the chain & crosby stills and nash helplessly hoping,https://en.wikipedia.org/wiki/Helplessly_Hoping,musical work/composition,Helplessly_Hoping,0.1597211258381534
+the chain,WoA,folky country songs like fleetwood mac the chain & crosby stills and nash helplessly hoping,https://en.wikipedia.org/wiki/The_Chain,musical work/composition,The_Chain,2.0150189337139786
+weezers,Artist,music that sounds like weezers pinkerton album,https://en.wikipedia.org/wiki/Weezer,rock group,Weezer,5.548280292067792
+pinkerton,WoA,music that sounds like weezers pinkerton album,https://en.wikipedia.org/wiki/Pinkerton_(album),album,Pinkerton_(album),2.6012797454049874
+desso,Artist,something like better days by desso,https://en.wikipedia.org/wiki/Desson_Thomson,human,Desson_Thomson,2.9924006494145647
+better days,WoA,something like better days by desso,https://en.wikipedia.org/wiki/Better_Days_(Joe_album),album,Better_Days_(Joe_album),0.3027482825168448
+grandsons,Artist,looking for artists songs with a similar style vibe to grandsons stuff,https://en.wikipedia.org/wiki/Grandson_(musician),human,Grandson_(musician),0.0
+crywank,Artist,stuff like crywank,https://en.wikipedia.org/wiki/Crywank,musical group,Crywank,0.0
+still woozy,Artist,artists similar to still woozy,https://en.wikipedia.org/wiki/Still_Woozy,human,Still_Woozy,0.0
+kiss from a rose,WoA,songs like kiss from a rose,https://en.wikipedia.org/wiki/Kiss_from_a_Rose,single,Kiss_from_a_Rose,2.5112570373130456
+bonnie prince billys,Artist,similar to bonnie prince billys cover of rubin and cherise,https://en.wikipedia.org/wiki/Will_Oldham,human,Will_Oldham,4.462694905683467
+rubin and cherise,WoA,similar to bonnie prince billys cover of rubin and cherise,,,,0.0
+dont get any closer,WoA,im looking for songs similar to dont get any closer by eluvium,,,,0.0
+eluvium,Artist,im looking for songs similar to dont get any closer by eluvium,https://en.wikipedia.org/wiki/Eluvium_(musician),human,Eluvium_(musician),1.4948997736559146
+anderson paak,Artist,brothers keeper by anderson paak,https://en.wikipedia.org/wiki/Anderson_.Paak,human,Anderson_.Paak,0.0
+brothers keeper,WoA,brothers keeper by anderson paak,,,,0.0
+buttercup,WoA,looking for something similar to buttercup jack stauber,https://en.wikipedia.org/wiki/The_Buttercup_Chain,film,The_Buttercup_Chain,0.7945680047486068
+jack stauber,Artist,looking for something similar to buttercup jack stauber,https://en.wikipedia.org/wiki/Jack_Stauber,human,Jack_Stauber,0.0
+mighty,Artist,music like mighty,https://en.wikipedia.org/wiki/Damon_Stoudamire,human,Damon_Stoudamire,4.199425347242251
+coco,WoA,music similar to the soundtrack of the movie coco,https://en.wikipedia.org/wiki/Coco_(album),album,Coco_(album),1.5156924221514352
+el michels affair,Artist,hip hop funk psychedelic music like el michels affair,https://en.wikipedia.org/wiki/El_Michels_Affair,musical group,El_Michels_Affair,0.1568364602260068
+david lynch,Artist,twangy jazzy 50s 60s guitar like you hear in a david lynch movie,https://en.wikipedia.org/wiki/David_Lynch_(singer),human,David_Lynch_(singer),0.0
+hit the road jack,WoA,hit the road jack,https://en.wikipedia.org/wiki/Hit_the_Road_Jack,single,Hit_the_Road_Jack,2.6330881590518995
+love shake,WoA,bubblegum kpop songs like love shake by minx,,,,0.0
+minx,Artist,bubblegum kpop songs like love shake by minx,https://en.wikipedia.org/wiki/MINX_(band),musical group,MINX_(band),0.0
+adeyeme,Artist,adeyeme all day,https://en.wikipedia.org/wiki/Adeyemi_Afolahan,human,Adeyemi_Afolahan,0.0
+novos baianos,Artist,looking for more bands like novos baianos,https://en.wikipedia.org/wiki/Novos_Baianos,musical group,Novos_Baianos,1.2318545493036286
+veridis quo,WoA,songs like veridis quo by daft punk | baroque synth,,,,0.0
+daft punk,Artist,songs like veridis quo by daft punk | baroque synth,https://en.wikipedia.org/wiki/Daft_Punk,electronica duo,Daft_Punk,5.504862620106499
+george jeff,WoA,any similar songs to george jeff jaden smith | specifically the beat,,,,0.0
+jaden smith,Artist,any similar songs to george jeff jaden smith | specifically the beat,https://en.wikipedia.org/wiki/Jaden_Smith,human,Jaden_Smith,3.224691109303931
+down in mexico,WoA,similar singing style vibe of use me and down in mexico,https://en.wikipedia.org/wiki/Down_in_Mexico,single,Down_in_Mexico,0.1727671288217784
+use me,WoA,similar singing style vibe of use me and down in mexico,https://en.wikipedia.org/wiki/Use_Me_(Hinder_song),single,Use_Me_(Hinder_song),0.0
+so long see you tomorrow,WoA,so long see you tomorrow bombay bicycle club any songs similar to this one,,,,0.0
+bombay bicycle club,Artist,so long see you tomorrow bombay bicycle club any songs similar to this one,https://en.wikipedia.org/wiki/Bombay_Bicycle_Club,musical group,Bombay_Bicycle_Club,3.127040910738593
+the format,Artist,artists bands like the format,https://en.wikipedia.org/wiki/The_Format,musical group,The_Format,2.672765671548822
+haley smalls,Artist,haley smalls voodoo doll,,,,0.0
+voodoo doll,WoA,haley smalls voodoo doll,https://en.wikipedia.org/wiki/Voodoo_Doll_(VIXX_song),song,Voodoo_Doll_(VIXX_song),0.0
+college,Artist,something similar to college & electric youth a real hero | drive original movie soundtrack,,,,0.0
+electric youth,Artist,something similar to college & electric youth a real hero | drive original movie soundtrack,https://en.wikipedia.org/wiki/Electric_Youth_(band),musical group,Electric_Youth_(band),1.2762844981419228
+a real hero,WoA,something similar to college & electric youth a real hero | drive original movie soundtrack,https://en.wikipedia.org/wiki/A_Real_Hero,single,A_Real_Hero,0.3188012215644757
+drive,WoA,something similar to college & electric youth a real hero | drive original movie soundtrack,https://en.wikipedia.org/wiki/Drive_(R.E.M._song),song,Drive_(R.E.M._song),1.4988839868496076
+data,Artist,looking for music or the genre of music of artists like data she kid velo sebastian,https://en.wikipedia.org/wiki/DATA_(band),musical group,DATA_(band),0.6319455186094185
+sebastian,Artist,looking for music or the genre of music of artists like data she kid velo sebastian,https://en.wikipedia.org/wiki/Sebastian_(singer),human,Sebastian_(singer),1.3807339960639968
+she,Artist,looking for music or the genre of music of artists like data she kid velo sebastian,https://en.wikipedia.org/wiki/S.H.E,girl group,S.H.E,3.391676421329411
+kid velo,Artist,looking for music or the genre of music of artists like data she kid velo sebastian,,,,0.0
+the magnificent seven,WoA,stuff like the song the magnificent seven by the clash,https://en.wikipedia.org/wiki/The_Magnificent_Seven_(song),single,The_Magnificent_Seven_(song),1.477384357855536
+the clash,Artist,stuff like the song the magnificent seven by the clash,https://en.wikipedia.org/wiki/The_Clash,musical group,The_Clash,6.248584560832828
+grateful dead,Artist,song similar in feeling and vibe than grateful dead,https://en.wikipedia.org/wiki/Grateful_Dead,musical group,Grateful_Dead,6.648478623891538
+fischerspooner,Artist,electronic music similar to fischerspooner flume or hermitude,https://en.wikipedia.org/wiki/Fischerspooner,musical duo,Fischerspooner,3.0167759661394484
+flume,Artist,electronic music similar to fischerspooner flume or hermitude,https://en.wikipedia.org/wiki/Flume_(musician),human,Flume_(musician),3.296509002129861
+hermitude,Artist,electronic music similar to fischerspooner flume or hermitude,https://en.wikipedia.org/wiki/Hermitude,musical ensemble,Hermitude,2.2425727154277126
+anthony russo,Artist,anthony russo yew nork,https://en.wikipedia.org/wiki/Russo_brothers,sibling duo,Russo_brothers,3.118465813413128
+yew nork,WoA,anthony russo yew nork,,,,0.0
+grizzly bear,Artist,similar to grizzly bear will calls | diplo remix,https://en.wikipedia.org/wiki/Grizzly_Bear_(band),musical group,Grizzly_Bear_(band),3.82382774368938
+will calls,WoA,similar to grizzly bear will calls | diplo remix,,,,0.0
+diplo,Artist,similar to grizzly bear will calls | diplo remix,https://en.wikipedia.org/wiki/Diplo,human,Diplo,5.1107796970052775
+timberlake,Artist,what would you reccommend probably from timberlake if i liked the snl trilogy | dick in a box,https://en.wikipedia.org/wiki/Timberlake_Wertenbaker,human,Timberlake_Wertenbaker,2.725492128233711
+dick in a box,WoA,what would you reccommend probably from timberlake if i liked the snl trilogy | dick in a box,https://en.wikipedia.org/wiki/Dick_in_a_Box,song,Dick_in_a_Box,1.5311551244789945
+the snl trilogy,WoA,what would you reccommend probably from timberlake if i liked the snl trilogy | dick in a box,,,,0.0
+dance gavin dance,Artist,bands that are like dance gavin dance but without the screaming | i love the melodic guitar and the singing but the screaming is a bit much sometimes,https://en.wikipedia.org/wiki/Dance_Gavin_Dance,rock group,Dance_Gavin_Dance,3.264027829690141
+bishops knife trick,WoA,looking for music similar to bishops knife trick fall out boy and blue side jhope,,,,0.0
+fall out boy,Artist,looking for music similar to bishops knife trick fall out boy and blue side jhope,https://en.wikipedia.org/wiki/Fall_Out_Boy,musical group,Fall_Out_Boy,5.511714569259052
+blue side,WoA,looking for music similar to bishops knife trick fall out boy and blue side jhope,https://en.wikipedia.org/wiki/Blue_Side_of_Lonesome,single,Blue_Side_of_Lonesome,0.0
+jhope,Artist,looking for music similar to bishops knife trick fall out boy and blue side jhope,,,,0.0
+stranger things,WoA,songs artists like the intro to stranger things,https://en.wikipedia.org/wiki/Stranger_Things_(Kygo_song),single,Stranger_Things_(Kygo_song),0.0
+hangover,WoA,really chill trap like hangover from dynoro,https://en.wikipedia.org/wiki/Hangover_(Taio_Cruz_song),single,Hangover_(Taio_Cruz_song),0.6983562648647528
+dynoro,Artist,really chill trap like hangover from dynoro,https://en.wikipedia.org/wiki/Dynoro,human,Dynoro,0.0
+johnny flynn,Artist,anyone similar to johnny flynn | i particularly enjoy hard road by him,https://en.wikipedia.org/wiki/Johnny_Flynn_%26_The_Sussex_Wit,musical group,Johnny_Flynn_%26_The_Sussex_Wit,0.4813765145446833
+hard road,WoA,anyone similar to johnny flynn | i particularly enjoy hard road by him,https://en.wikipedia.org/wiki/Hard_Road_(Stevie_Wright_album),album,Hard_Road_(Stevie_Wright_album),0.0349853510559476
+frank zappa,Artist,frank zappa little feat music suggestions for my dad,https://en.wikipedia.org/wiki/Frank_Zappa,human,Frank_Zappa,6.494072874556457
+little feat,Artist,frank zappa little feat music suggestions for my dad,https://en.wikipedia.org/wiki/Little_Feat,musical group,Little_Feat,4.393465687139832
+slab city,Artist,new album slab city,,,,0.0
+bowsprit,WoA,songs similar to bowsprit by balmorhea,,,,0.0
+balmorhea,Artist,songs similar to bowsprit by balmorhea,https://en.wikipedia.org/wiki/Balmorhea_(band),musical group,Balmorhea_(band),1.0175186232096802
+suave youngin,Artist,suave youngin neon clothes,,,,0.0
+neon clothes,WoA,suave youngin neon clothes,,,,0.0
+générique,WoA,looking for songs with a sensual vibe or a classic noir feeling like générique by miles davis,,,,0.0
+miles davis,Artist,looking for songs with a sensual vibe or a classic noir feeling like générique by miles davis,https://en.wikipedia.org/wiki/Miles_Davis_Quintet,musical group,Miles_Davis_Quintet,2.3138837015008065
+oloff,Artist,oloff sun rays,https://en.wikipedia.org/wiki/Oloff_Smith,human,Oloff_Smith,0.0
+sun rays,WoA,oloff sun rays,,,,0.0
+colde,Artist,these songs are not that well known but what are some american artists or songs that are similar to colde sunflower colde shh offonoff dance,https://en.wikipedia.org/wiki/Cold_(band),musical group,Cold_(band),3.312942086057209
+sunflower,WoA,these songs are not that well known but what are some american artists or songs that are similar to colde sunflower colde shh offonoff dance,https://en.wikipedia.org/wiki/Sunflower_(The_Beach_Boys_album),album,Sunflower_(The_Beach_Boys_album),1.9995706983022945
+colde,Artist,these songs are not that well known but what are some american artists or songs that are similar to colde sunflower colde shh offonoff dance,https://en.wikipedia.org/wiki/Cold_(band),musical group,Cold_(band),3.312942086057209
+shh,WoA,these songs are not that well known but what are some american artists or songs that are similar to colde sunflower colde shh offonoff dance,https://en.wikipedia.org/wiki/Shh_(After_School_song),musical work/composition,Shh_(After_School_song),0.0
+offonoff,Artist,these songs are not that well known but what are some american artists or songs that are similar to colde sunflower colde shh offonoff dance,https://en.wikipedia.org/wiki/Off_On_Off,musical group,Off_On_Off,0.0
+dance,WoA,these songs are not that well known but what are some american artists or songs that are similar to colde sunflower colde shh offonoff dance,"https://en.wikipedia.org/wiki/Dance,_Dance_(Fall_Out_Boy_song)",single,"Dance,_Dance_(Fall_Out_Boy_song)",1.8567597170587915
+hardest geometry problem in the world,WoA,hardest geometry problem in the world mark mothersbaugh similar songs,,,,0.0
+mark mothersbaugh,Artist,hardest geometry problem in the world mark mothersbaugh similar songs,https://en.wikipedia.org/wiki/Mark_Mothersbaugh,human,Mark_Mothersbaugh,3.941997112857937
+hoziers,Artist,songs with themes of being unable to settle | ex hoziers someone new elle kings exes and ohs,https://en.wikipedia.org/wiki/Hozier_(musician),human,Hozier_(musician),3.203008067032896
+someone new,WoA,songs with themes of being unable to settle | ex hoziers someone new elle kings exes and ohs,https://en.wikipedia.org/wiki/Someone_New_(Eskobar_song),single,Someone_New_(Eskobar_song),0.3439280811938943
+elle kings,Artist,songs with themes of being unable to settle | ex hoziers someone new elle kings exes and ohs,https://en.wikipedia.org/wiki/Elle_King,human,Elle_King,2.6674905251400283
+exes and ohs,WoA,songs with themes of being unable to settle | ex hoziers someone new elle kings exes and ohs,,,,0.0
+nghtmre,Artist,nghtmre street | anar remix,https://en.wikipedia.org/wiki/Nghtmre,human,Nghtmre,1.2726161716270692
+street,WoA,nghtmre street | anar remix,https://en.wikipedia.org/wiki/Street_(Nina_Hagen_album),album,Street_(Nina_Hagen_album),0.1271586207491566
+anar,Artist,nghtmre street | anar remix,https://en.wikipedia.org/wiki/Anar_Rzayev,human,Anar_Rzayev,1.076760364722551
+nujabes,Artist,music artists similar to nujabes atlas etc,https://en.wikipedia.org/wiki/Nujabes,human,Nujabes,2.391697228795465
+atlas,Artist,music artists similar to nujabes atlas etc,,,,0.0
+gaye,Artist,70s rnb jazz blues | gsh gaye etc,https://en.wikipedia.org/wiki/Claude_Gay,human,Claude_Gay,1.482852866630358
+gsh,Artist,70s rnb jazz blues | gsh gaye etc,,,,0.0
+cloud 404,Artist,irish hip hop cloud 404 9life 2020,,,,0.0
+9life,WoA,irish hip hop cloud 404 9life 2020,,,,0.0
+save yourself,WoA,music with similar theme as save yourself stabbing westward on the incapacity to take care of someone | even if one would like to | any genre ok,https://en.wikipedia.org/wiki/Save_Yourself_(McAuley_Schenker_Group_album),album,Save_Yourself_(McAuley_Schenker_Group_album),0.605185732108561
+stabbing westward,Artist,music with similar theme as save yourself stabbing westward on the incapacity to take care of someone | even if one would like to | any genre ok,https://en.wikipedia.org/wiki/Stabbing_Westward,musical group,Stabbing_Westward,3.046172331109428
+zimmers,Artist,looking for bass heavy synth soundscapes ambient like zimmers blade runner 2049 score,https://en.wikipedia.org/wiki/Zimmers_Hole,musical group,Zimmers_Hole,1.7501547549091487
+blade runner 2049,WoA,looking for bass heavy synth soundscapes ambient like zimmers blade runner 2049 score,https://en.wikipedia.org/wiki/Blade_Runner_2049_(soundtrack),album,Blade_Runner_2049_(soundtrack),0.0698629477863121
+llamas with hats,WoA,anything simmilar to the llamas with hats outro,,,,0.0
+parquet courts,Artist,music like parquet courts,https://en.wikipedia.org/wiki/Parquet_Courts,musical group,Parquet_Courts,2.05131360823714
+bon iver,Artist,finally got into bon iver and iron & wine what are some other similar artists,https://en.wikipedia.org/wiki/Bon_Iver,musical group,Bon_Iver,4.272604346239735
+iron & wine,Artist,finally got into bon iver and iron & wine what are some other similar artists,https://en.wikipedia.org/wiki/Iron_%26_Wine,human,Iron_%26_Wine,3.814932702092209
+tally hall,Artist,any artists similar to tally hall or miracle musical | its getting repetitive listening to the songs on repeat,https://en.wikipedia.org/wiki/Tally_Hall,musical group,Tally_Hall,0.0
+miracle musical,Artist,any artists similar to tally hall or miracle musical | its getting repetitive listening to the songs on repeat,,,,0.0
+system of a down,Artist,something similar to system of a down,https://en.wikipedia.org/wiki/System_of_a_Down,musical group,System_of_a_Down,5.010580524493063
+amon tobin,Artist,looking for similar tracks to amon tobin & kid koala untitled,https://en.wikipedia.org/wiki/Amon_Tobin,human,Amon_Tobin,3.2601916044178783
+kid koala,Artist,looking for similar tracks to amon tobin & kid koala untitled,https://en.wikipedia.org/wiki/Kid_Koala,human,Kid_Koala,2.9043812949736143
+untitled,WoA,looking for similar tracks to amon tobin & kid koala untitled,https://en.wikipedia.org/wiki/Led_Zeppelin_IV,album,Led_Zeppelin_IV,2.994347754961748
+code orange,Artist,code orange dreams in inertia i like code orange alright but i really want to find more melodic stuff like this song in particular | almost like shoegazey metal,https://en.wikipedia.org/wiki/Code_Orange_(band),musical group,Code_Orange_(band),2.0386704007218217
+dreams in inertia,WoA,code orange dreams in inertia i like code orange alright but i really want to find more melodic stuff like this song in particular | almost like shoegazey metal,,,,0.0
+code orange,Artist,code orange dreams in inertia i like code orange alright but i really want to find more melodic stuff like this song in particular | almost like shoegazey metal,https://en.wikipedia.org/wiki/Code_Orange_(band),musical group,Code_Orange_(band),2.0386704007218217
+cottie,Artist,cottie stewards,https://en.wikipedia.org/wiki/Cottie_Petrie-Norris,human,Cottie_Petrie-Norris,0.0
+stewards,WoA,cottie stewards,,,,0.0
+eden,Artist,any artists songs similar to the sounds of eden blackbear and gnash,https://en.wikipedia.org/wiki/Albert_Edelfelt,human,Albert_Edelfelt,1.9110147901358123
+blackbear,Artist,any artists songs similar to the sounds of eden blackbear and gnash,https://en.wikipedia.org/wiki/Blackbear_(musician),human,Blackbear_(musician),2.109143036682136
+gnash,Artist,any artists songs similar to the sounds of eden blackbear and gnash,https://en.wikipedia.org/wiki/Gnash_(musician),human,Gnash_(musician),1.318881791124893
+the muffs,Artist,suggestion for female lead bands with the same energy as the muffs tilt be your own pet the soviettes tweens dog party,https://en.wikipedia.org/wiki/The_Muffs,musical group,The_Muffs,2.413427948186907
+the soviettes,Artist,suggestion for female lead bands with the same energy as the muffs tilt be your own pet the soviettes tweens dog party,https://en.wikipedia.org/wiki/The_Soviettes,musical group,The_Soviettes,1.4083390981856567
+be your own pet,Artist,suggestion for female lead bands with the same energy as the muffs tilt be your own pet the soviettes tweens dog party,https://en.wikipedia.org/wiki/Be_Your_Own_Pet,musical group,Be_Your_Own_Pet,2.0714415604808085
+tweens,Artist,suggestion for female lead bands with the same energy as the muffs tilt be your own pet the soviettes tweens dog party,,,,0.0
+dog party,Artist,suggestion for female lead bands with the same energy as the muffs tilt be your own pet the soviettes tweens dog party,https://en.wikipedia.org/wiki/Dog_Party_(band),musical group,Dog_Party_(band),0.0
+tilt,Artist,suggestion for female lead bands with the same energy as the muffs tilt be your own pet the soviettes tweens dog party,https://en.wikipedia.org/wiki/Tilt_(Polish_band),musical group,Tilt_(Polish_band),0.5781912062154664
+ach so gern,WoA,similar to ach so gern,,,,0.0
+kid rocks,Artist,looking for songs similar to kid rocks greatest show on earth,https://en.wikipedia.org/wiki/Twisted_Brown_Trucker,musical group,Twisted_Brown_Trucker,1.2923796085220225
+greatest show on earth,WoA,looking for songs similar to kid rocks greatest show on earth,https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth_(film),film,The_Greatest_Show_on_Earth_(film),3.1052874926727547
+beret,Artist,beret ojalá,https://en.wikipedia.org/wiki/Beret_(singer),human,Beret_(singer),0.0
+ojalá,WoA,beret ojalá,https://en.wikipedia.org/wiki/Ojal%C3%A1_(song),musical work/composition,Ojal%C3%A1_(song),0.0
+airport bar,WoA,song similar to airport bar by noah,,,,0.0
+noah,Artist,song similar to airport bar by noah,https://en.wikipedia.org/wiki/Noa_(singer),human,Noa_(singer),0.0
+sweet,Artist,songs bands like sweet,https://en.wikipedia.org/wiki/The_Sweet,musical group,The_Sweet,4.261382797754404
+smino,Artist,artists like smino sudan archives fjk jessie reyez or tash sultana,https://en.wikipedia.org/wiki/Smino,human,Smino,0.928043904022287
+sudan archives,Artist,artists like smino sudan archives fjk jessie reyez or tash sultana,https://en.wikipedia.org/wiki/Sudan_Archives,human,Sudan_Archives,0.0
+fjk,Artist,artists like smino sudan archives fjk jessie reyez or tash sultana,https://en.wikipedia.org/wiki/Theodosius_Dobzhansky,human,Theodosius_Dobzhansky,3.324031591276933
+jessie reyez,Artist,artists like smino sudan archives fjk jessie reyez or tash sultana,https://en.wikipedia.org/wiki/Jessie_Reyez,human,Jessie_Reyez,1.2014231583232782
+tash sultana,Artist,artists like smino sudan archives fjk jessie reyez or tash sultana,https://en.wikipedia.org/wiki/Tash_Sultana,human,Tash_Sultana,1.4759674641616165
+alt j,Artist,looking for something similar to an awesome wave by alt j,https://en.wikipedia.org/wiki/Alt-J,musical group,Alt-J,3.674970657534926
+an awesome wave,WoA,looking for something similar to an awesome wave by alt j,https://en.wikipedia.org/wiki/An_Awesome_Wave,album,An_Awesome_Wave,1.51147817845046
+tax payers,Artist,songs similar to i love you like a alcoholic tax payers,,,,0.0
+i love you like a alcoholic,WoA,songs similar to i love you like a alcoholic tax payers,,,,0.0
+chet faker,Artist,im addicted to this song is not about a girl by flume & chet faker | what else would i like,https://en.wikipedia.org/wiki/Chet_Faker,human,Chet_Faker,0.0
+flume,Artist,im addicted to this song is not about a girl by flume & chet faker | what else would i like,https://en.wikipedia.org/wiki/Flume_(musician),human,Flume_(musician),3.296509002129861
+this song is not about a girl,WoA,im addicted to this song is not about a girl by flume & chet faker | what else would i like,,,,0.0
+automachef,WoA,looking for music that is similar to the soundtrack in little known game automachef,,,,0.0
+guardians of the galaxy,WoA,some music like the one in guardians of the galaxy,https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(soundtrack),album,Guardians_of_the_Galaxy_(soundtrack),0.8933516160811497
+the contortionists,Artist,looking for similar stuff to the contortionists rediscovered tracks,https://en.wikipedia.org/wiki/The_Contortionist,musical group,The_Contortionist,1.9738851035233864
+the black keys,Artist,songs like the black keys i got mine | just some good old fashioned f u rock n roll,https://en.wikipedia.org/wiki/The_Black_Keys,musical duo,The_Black_Keys,4.892264092082893
+i got mine,WoA,songs like the black keys i got mine | just some good old fashioned f u rock n roll,https://en.wikipedia.org/wiki/I_Got_Mine_(The_Black_Keys_song),musical work/composition,I_Got_Mine_(The_Black_Keys_song),0.2557377890705119
+solitude standing,WoA,trying to find an album like solitude standing by suzanne vega my favorite album since age 7,https://en.wikipedia.org/wiki/Solitude_Standing,album,Solitude_Standing,0.930664108044846
+suzanne vega,Artist,trying to find an album like solitude standing by suzanne vega my favorite album since age 7,https://en.wikipedia.org/wiki/Suzanne_Vega,human,Suzanne_Vega,4.429695776946174
+metro booming,Artist,i like metro booming no complaints and drake sneakin i need more songs with this vibe any ideas,https://en.wikipedia.org/wiki/Metro_Boomin,human,Metro_Boomin,3.517380703486335
+no complaints,WoA,i like metro booming no complaints and drake sneakin i need more songs with this vibe any ideas,https://en.wikipedia.org/wiki/No_Complaints,single,No_Complaints,0.0
+drake,Artist,i like metro booming no complaints and drake sneakin i need more songs with this vibe any ideas,https://en.wikipedia.org/wiki/Drake_(musician),human,Drake_(musician),6.552086778216472
+sneakin,WoA,i like metro booming no complaints and drake sneakin i need more songs with this vibe any ideas,https://en.wikipedia.org/wiki/Sneakin%27_Suspicion,album,Sneakin%27_Suspicion,0.4333700554872468
+atlantis,WoA,synth & rap songs like atlantis by bridgit mendler,https://en.wikipedia.org/wiki/Atlantis_(1930_film),film,Atlantis_(1930_film),0.0
+bridgit mendler,Artist,synth & rap songs like atlantis by bridgit mendler,https://en.wikipedia.org/wiki/Bridgit_Mendler,human,Bridgit_Mendler,3.401246754016116
+caye,Artist,caye merry go round,https://en.wikipedia.org/wiki/Cay_(band),musical group,Cay_(band),0.0
+merry go round,WoA,caye merry go round,https://en.wikipedia.org/wiki/Merry_Go_Round_(Delinquent_Habits_album),album,Merry_Go_Round_(Delinquent_Habits_album),0.103230740766893
+a star is born,WoA,country rock stuff like from a star is born,https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_soundtrack),album,A_Star_Is_Born_(1976_soundtrack),0.0
+bones,Artist,looking for similar sad depressed ambient atmospheric beats such as this bones deadindesignerclothes | internetboi remix,https://en.wikipedia.org/wiki/Arnold_Boonen,human,Arnold_Boonen,0.9733906326477212
+deadindesignerclothes,WoA,looking for similar sad depressed ambient atmospheric beats such as this bones deadindesignerclothes | internetboi remix,,,,0.0
+internetboi,Artist,looking for similar sad depressed ambient atmospheric beats such as this bones deadindesignerclothes | internetboi remix,,,,0.0
+soho disco,Artist,soho disco hold on,,,,0.0
+hold on,WoA,soho disco hold on,https://en.wikipedia.org/wiki/Hold_On_(Jonas_Brothers_song),song,Hold_On_(Jonas_Brothers_song),0.7654165823294434
+2 pac,Artist,looking for deep music similar to 2 pac styles p,https://en.wikipedia.org/wiki/Tupac_Shakur,human,Tupac_Shakur,6.13408793396105
+styles p,Artist,looking for deep music similar to 2 pac styles p,https://en.wikipedia.org/wiki/Styles_of_Beyond,musical group,Styles_of_Beyond,2.5349540993996023
+cindy,WoA,songs similar to cindy by tammany hall nyc,https://en.wikipedia.org/wiki/Cindy_(folk_song),musical work/composition,Cindy_(folk_song),0.5144261622875952
+tammany hall nyc,Artist,songs similar to cindy by tammany hall nyc,https://en.wikipedia.org/wiki/Tammany_Hall_NYC,musical group,Tammany_Hall_NYC,0.2060185523809306
+rage against the machine,Artist,in need of some music similar to the likes of rage against the machine bring me the horizon and dz deathrays,https://en.wikipedia.org/wiki/Rage_Against_the_Machine,rock group,Rage_Against_the_Machine,5.500131794744316
+bring me the horizon,Artist,in need of some music similar to the likes of rage against the machine bring me the horizon and dz deathrays,https://en.wikipedia.org/wiki/Bring_Me_the_Horizon,musical group,Bring_Me_the_Horizon,4.209164132349404
+dz deathrays,Artist,in need of some music similar to the likes of rage against the machine bring me the horizon and dz deathrays,https://en.wikipedia.org/wiki/DZ_Deathrays,musical ensemble,DZ_Deathrays,1.5307789094650044
+the honeymoon era,WoA,the honeymoon era by paiige,,,,0.0
+paiige,Artist,the honeymoon era by paiige,,,,0.0
+seeya,WoA,any similiar suggestions to the song seeya by deadmau5 and colleen dagostino,https://en.wikipedia.org/wiki/Seeya_(Deadmau5_song),single,Seeya_(Deadmau5_song),0.0
+deadmau5,Artist,any similiar suggestions to the song seeya by deadmau5 and colleen dagostino,https://en.wikipedia.org/wiki/Deadmau5,human,Deadmau5,4.705591747806881
+colleen dagostino,Artist,any similiar suggestions to the song seeya by deadmau5 and colleen dagostino,,,,0.0
+the chain,WoA,intense songs like the chain by fleetwood mac,https://en.wikipedia.org/wiki/The_Chain,musical work/composition,The_Chain,2.0150189337139786
+fleetwood mac,Artist,intense songs like the chain by fleetwood mac,https://en.wikipedia.org/wiki/Fleetwood_Mac,rock group,Fleetwood_Mac,6.0841122331975175
+koi child,Artist,after a long music rut i was happy to find koi child but theyre gone now and i need more,https://en.wikipedia.org/wiki/Koi_Child,human,Koi_Child,0.0
+sturgill simpson,Artist,recommend for me something similar to sturgill simpson,https://en.wikipedia.org/wiki/Sturgill_Simpson,human,Sturgill_Simpson,2.664334312301909
+post malone,Artist,im searching for songs that are like post malone leave,https://en.wikipedia.org/wiki/Post_Malone,human,Post_Malone,3.190445301013062
+leave,WoA,im searching for songs that are like post malone leave,https://en.wikipedia.org/wiki/Leave_(album),album,Leave_(album),0.0786278567472393
+black sheep,WoA,can you suggest some songs similar to black sheep from scott pilgrim vs the world,https://en.wikipedia.org/wiki/Kuroi_Hitsuji,single,Kuroi_Hitsuji,0.0
+scott pilgrim vs the world,WoA,can you suggest some songs similar to black sheep from scott pilgrim vs the world,https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World,film,Scott_Pilgrim_vs._the_World,3.532981153477172
+nier automatas,WoA,music similar to nier automatas soundtrack,,,,0.0
+princess and the frog,WoA,upbeat jazz like those from princess and the frog and hadestown,https://en.wikipedia.org/wiki/The_Princess_and_the_Frog,animated feature film,The_Princess_and_the_Frog,3.719907354799542
+hadestown,WoA,upbeat jazz like those from princess and the frog and hadestown,https://en.wikipedia.org/wiki/Hadestown_cast_recordings,album,Hadestown_cast_recordings,0.0
+arctic monkeys,Artist,indie arctic monkeys green day nirvana etc,https://en.wikipedia.org/wiki/Arctic_Monkeys,rock group,Arctic_Monkeys,5.284758584810186
+nirvana,Artist,indie arctic monkeys green day nirvana etc,https://en.wikipedia.org/wiki/Nirvana_(band),rock group,Nirvana_(band),6.635762202347882
+green day,Artist,indie arctic monkeys green day nirvana etc,https://en.wikipedia.org/wiki/Green_Day,rock group,Green_Day,6.372923356237793
+kid cudis,Artist,music like kid cudis,https://en.wikipedia.org/wiki/Kid_Cudi,human,Kid_Cudi,4.655602130249489
+overcooked,WoA,looking for songs with a sad harmonica like the overcooked theme song,https://en.wikipedia.org/wiki/Overcooked,video game,Overcooked,0.2535614089422857
+wayfaring strangers,WoA,suggest something similar to wayfaring strangers by johnny cash | some good fiddle music,,,,0.0
+johnny cash,Artist,suggest something similar to wayfaring strangers by johnny cash | some good fiddle music,https://en.wikipedia.org/wiki/Johnny_Cash,human,Johnny_Cash,6.911468083752947
+time to move,WoA,recently listened to time to move by carmen,https://en.wikipedia.org/wiki/Time_to_Move_(Blake_McGrath_album),album,Time_to_Move_(Blake_McGrath_album),0.0
+carmen,Artist,recently listened to time to move by carmen,https://en.wikipedia.org/wiki/Ang%C3%A9lique_Kidjo,human,Ang%C3%A9lique_Kidjo,3.7758728781246607
+the nights,WoA,looking for songs like the nights | avicii,https://en.wikipedia.org/wiki/The_Nights,single,The_Nights,0.4118603692388412
+avicii,Artist,looking for songs like the nights | avicii,https://en.wikipedia.org/wiki/Avicii,human,Avicii,4.892366893419402
+feel good inc,WoA,something that kind of sounds similar to the chorus of feel good inc,https://en.wikipedia.org/wiki/Feel_Good_Inc.,single,Feel_Good_Inc.,2.393558487518004
+hold my liquor,WoA,more songs like hold my liquor by kanye west,https://en.wikipedia.org/wiki/Hold_My_Liquor,musical work/composition,Hold_My_Liquor,0.0325995177774931
+kanye west,Artist,more songs like hold my liquor by kanye west,https://en.wikipedia.org/wiki/Kids_See_Ghosts,musical duo,Kids_See_Ghosts,0.0
+blank space,WoA,songs similar to blank space by i prevail,https://en.wikipedia.org/wiki/Blank_Space,single,Blank_Space,2.590193111485138
+i prevail,Artist,songs similar to blank space by i prevail,https://en.wikipedia.org/wiki/I_Prevail,musical group,I_Prevail,1.3107874538029236
+esbe,Artist,trying to find the music genre and any suggestions like the second half of this song already set the start point to halfway similar to esbe fulfill the dream,https://en.wikipedia.org/wiki/A_Friend_in_London,musical group,A_Friend_in_London,1.1693910024026462
+fulfill the dream,WoA,trying to find the music genre and any suggestions like the second half of this song already set the start point to halfway similar to esbe fulfill the dream,,,,0.0
+soad,Artist,band comparable to soad,https://en.wikipedia.org/wiki/System_of_a_Down,musical group,System_of_a_Down,5.010580524493063
+atb,Artist,what songs are similar to atb when it ends it starts again,https://en.wikipedia.org/wiki/ATB,human,ATB,3.4806830835176523
+when it ends it starts again,WoA,what songs are similar to atb when it ends it starts again,,,,0.0
+allday,Artist,anything similar to australian rapper allday,https://en.wikipedia.org/wiki/Allday,human,Allday,1.1256805052428105
+tyler the creator,Artist,ive been getting into tyler the creator and chance the rapper recently | also looking for artists similar to elvis bob crosby and that kinda vibe,,,,0.0
+chance the rapper,Artist,ive been getting into tyler the creator and chance the rapper recently | also looking for artists similar to elvis bob crosby and that kinda vibe,https://en.wikipedia.org/wiki/Chance_the_Rapper,human,Chance_the_Rapper,4.273766686548825
+bob crosby,Artist,ive been getting into tyler the creator and chance the rapper recently | also looking for artists similar to elvis bob crosby and that kinda vibe,https://en.wikipedia.org/wiki/Bob_Crosby,human,Bob_Crosby,3.754607704203656
+elvis,Artist,ive been getting into tyler the creator and chance the rapper recently | also looking for artists similar to elvis bob crosby and that kinda vibe,https://en.wikipedia.org/wiki/Elvis_Presley,human,Elvis_Presley,8.028838249491614
+portland,WoA,music like portland by bowling shoes,,,,0.0
+bowling shoes,Artist,music like portland by bowling shoes,,,,0.0
+akiko shikatas,Artist,songs similar to akiko shikatas hymnos,https://en.wikipedia.org/wiki/Akiko_Shikata,human,Akiko_Shikata,1.4436873153543246
+coco,WoA,i want more spanish language music in similar style to the soundtrack of the movie coco,https://en.wikipedia.org/wiki/Coco_(album),album,Coco_(album),1.5156924221514352
+endless summer,WoA,similar songs to endless summer by the midnight,https://en.wikipedia.org/wiki/Endless_Summer_(Oceana_song),song,Endless_Summer_(Oceana_song),0.267816986973143
+the midnight,Artist,similar songs to endless summer by the midnight,https://en.wikipedia.org/wiki/The_Midnight,musical group,The_Midnight,0.0
+trust,Artist,looking for bands artists similar to trust,https://en.wikipedia.org/wiki/Trust_(French_band),rock group,Trust_(French_band),2.21619252517954
+worakls,Artist,music like worakls,https://en.wikipedia.org/wiki/Worakls,human,Worakls,0.2637736845777549
+hermeto pascoal,Artist,love hermeto pascoal similar artists,https://en.wikipedia.org/wiki/Hermeto_Pascoal,human,Hermeto_Pascoal,2.9997935710971024
+pink floyd,Artist,the piper at the gates of dawn pink floyd,https://en.wikipedia.org/wiki/Pink_Floyd,rock group,Pink_Floyd,7.217513633743452
+the piper at the gates of dawn,WoA,the piper at the gates of dawn pink floyd,https://en.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn,album,The_Piper_at_the_Gates_of_Dawn,2.882362593412552
+sopor aeternus,Artist,similar music as sopor aeternus,https://en.wikipedia.org/wiki/Sopor_Aeternus_and_The_Ensemble_of_Shadows,musical group,Sopor_Aeternus_and_The_Ensemble_of_Shadows,0.0
+cherokee,Artist,cherokee numb | 2015,https://en.wikipedia.org/wiki/Ray_Price_(musician),human,Ray_Price_(musician),4.089660662442686
+numb,WoA,cherokee numb | 2015,https://en.wikipedia.org/wiki/Numb_(Linkin_Park_song),single,Numb_(Linkin_Park_song),2.102066870586926
+sunslammer,WoA,recommend me some songs similar to the sunslammer cement city remix by homestuck,,,,0.0
+cement city,Artist,recommend me some songs similar to the sunslammer cement city remix by homestuck,,,,0.0
+homestuck,Artist,recommend me some songs similar to the sunslammer cement city remix by homestuck,,,,0.0
+good news,WoA,songs like good news by mac miller | preferrably hip hop,https://en.wikipedia.org/wiki/Good_News_(Lena_album),album,Good_News_(Lena_album),0.6301309209350361
+mac miller,Artist,songs like good news by mac miller | preferrably hip hop,https://en.wikipedia.org/wiki/Mac_Miller,human,Mac_Miller,4.2415335155732485
+the chain,WoA,something along the lines of either the chain or mr blue sky,https://en.wikipedia.org/wiki/The_Chain,musical work/composition,The_Chain,2.0150189337139786
+mr blue sky,WoA,something along the lines of either the chain or mr blue sky,,,,0.0
+oxygen,WoA,heavy bass x gothic rap like oxygen by bones,https://en.wikipedia.org/wiki/Oxygen_(Wild_Orchid_album),album,Oxygen_(Wild_Orchid_album),0.4479241741424253
+bones,Artist,heavy bass x gothic rap like oxygen by bones,https://en.wikipedia.org/wiki/Arnold_Boonen,human,Arnold_Boonen,0.9733906326477212
