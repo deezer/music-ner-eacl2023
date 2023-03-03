@@ -110,7 +110,7 @@ if __name__ == "__main__":
         round(len(common_ents) / len(test_ents_all), 2),
     )
 
-    pretrained_seen = set(df[df.exposure > 1]["original"].to_list()).intersection(
+    pretrained_seen = set(df[df.exposure > 1]["mention"].to_list()).intersection(
         test_ents_all
     )
     print(
@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
     print("Examples of entities with high exposure")
     print(
-        df[["original", "type", "exposure"]]
-        .drop_duplicates(subset=["original"])
+        df[["mention", "type", "exposure"]]
+        .drop_duplicates(subset=["mention"])
         .sort_values(by="exposure", ascending=False)[:30]
     )
